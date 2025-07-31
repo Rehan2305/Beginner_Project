@@ -1,2 +1,21 @@
-# Beginner_Project
-Hi there! 👋 This is a simple little Python program I built to calculate BMI (Body Mass Index) — a common health indicator that tells you if your weight is healthy for your height.
+# 🧠 Beginner Python Projects  
+*“I’m not a pro… yet.”*
+
+Just a curious human learning Python and building tiny things that actually *work* (sometimes).
+
+---
+
+## 🧮 BMI Calculator  
+Tells you if you’re fit, fat, or fantastic.  
+📁 `BMI-Calculator/`
+
+---
+
+## 🎯 Number Guessing Game  
+The computer cheats. You cry.  
+📁 `Number-Guessing-Game/`
+
+---
+
+## 🛠️ More coming soon...  
+To-do list, calculator, AI that roasts you? Wh
