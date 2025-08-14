@@ -1,21 +1,22 @@
-# 🧠 Beginner Python Projects  
-*“I’m not a pro… yet.”*
+A collection of small beginner-friendly Python programs I built while learning Python.  
+Each project is simple, easy to understand, and focuses on practicing the basics.
 
-Just a curious human learning Python and building tiny things that actually *work* (sometimes).
+## 📂 Projects
 
----
+### 1. BMI Calculator
+- Takes height & weight as input
+- Calculates Body Mass Index
+- Classifies as Underweight, Normal, Overweight, or Obese
 
-## 🧮 BMI Calculator  
-Tells you if you’re fit, fat, or fantastic.  
-📁 `BMI-Calculator/`
+### 2. Guess the Number Game
+- Randomly picks a number between 1–100
+- User tries to guess with hints (“too high” / “too low”)
+- Tracks number of attempts
 
----
-
-## 🎯 Number Guessing Game  
-The computer cheats. You cry.  
-📁 `Number-Guessing-Game/`
-
----
+### 3. Matrix Addition (2x2)
+- Takes input for two 2x2 matrices
+- Adds them element by element
+- Displays the result in matrix form
 
 ## 🛠️ More coming soon...  
 To-do list, calculator, AI that roasts you? Wh
